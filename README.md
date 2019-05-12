@@ -12,3 +12,9 @@
 Конец Разбора 
 true . 
 ```
+
+
+## Run
+0. Install swpl
+1. swipl main.pl
+2. sentence(X,[]).
